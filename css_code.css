@@ -1,0 +1,143 @@
+nav ul{
+  list-style:none;
+  display:flex;
+  background-color:lightblue;
+  border-radius:10px;
+  text-align:center;
+}
+nav ul li{
+  margin:10px 10px;
+  color:teal;
+}
+body
+{
+    background-color: #fff;
+    font-family: helvetica neue,arial,helvetica,freesans,liberation sans,numbus sans l,sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #162040;
+    overflow-y: scroll;
+}
+div.Link{
+   
+  background-color:lightblue;
+  text-align:center; 
+  border-radius:10px;
+}
+h1{
+  text-align:center
+}
+.p1{
+  text-align:center;
+}
+div.img1{
+  text-align:center;
+}
+div.img2{
+  text-align:center;
+}
+.button1{
+  font-family: Founders Grotesk,sans-serif;
+  padding: 16px 32px;
+    padding-top: 16px;
+    padding-right: 32px;
+    padding-bottom: 16px;
+    padding-left: 32px;
+    border-radius: 4px;
+    text-align: center;
+    border: none;
+    background: #0f6fff;
+    color: #fff;
+    cursor: pointer;
+  text-decoration: none;
+    text-decoration-line: none;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}
+.button2{
+ font-size: 20px;
+    line-height: 1.4;
+    font-weight: 500;
+    font-family: Founders Grotesk,sans-serif;
+    line-height: 24px;
+    padding: 16px 32px;
+    border-radius: 4px;
+    text-align: center;
+    border: none;
+    background:  purple;
+    color: #fff;
+    cursor: pointer;
+    text-decoration: none;
+  
+}
+.button3{
+font-size: 20px;
+    line-height: 0.4;
+    font-weight: 500;
+    font-family: Founders Grotesk,sans-serif;
+    line-height: 24px;
+    padding: 16px 32px;
+    border-radius: 4px;
+    text-align: center;
+    border: none;
+    background:  orange;
+    color: #fff;
+    cursor: pointer;
+    text-decoration: none;
+}
+section{
+  display:flex;
+}
+section > div{
+  display:block;
+  padding:20px 20px;
+  
+}
+.para{
+   justify-content:center;
+  padding: 10px;
+  margin: 20px 20px;
+}
+h2{
+  text-align:center;
+  font-family: Founders Grotesk,sans-serif;
+    line-height: 24px;
+    padding: 16px 32px;
+    border-radius: 4px;
+}
+h3{
+      margin-bottom: 16px;
+      line-height:10px
+      text-align:left;
+      justify-content:center;
+}
+section#B >section#internal{
+  display:flex;
+}
+  section >div{
+    margin:10px 10px;
+  }
+  .p4{
+    padding:24px;
+  }
+.button4{
+font-size: 20px;
+    line-height: 0.4;
+    font-weight: 500;
+    font-family: Founders Grotesk,sans-serif;
+    line-height: 24px;
+    padding: 16px 32px;
+    border-radius: 4px;
+    text-align: center;
+    border: none;
+    background:  blue;
+    color: #fff;
+    cursor: pointer;
+    text-decoration: none;
+}
+  section#B> div#2{
+    display:flex;
+  }
+.link4.button4{
+  margin:10px 10px;
+}
